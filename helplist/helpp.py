@@ -14,11 +14,11 @@ def Banner():
  ╚███╔███╔╝███████╗██████╔╝██║  ██╗██║███████╗███████╗███████╗██║  ██║
  ╚══╝╚══╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
  ====================================================================
- **                  WebSite : https://github.com/NH404            **
- **                  Channel : https://t.me/nshteam404             **
- **                 Developers : NH404                             **
- **               Team Members : 78 Person                         **
- **                   Thank's : .::Shayan::.                       **
+ **                  WebSite : https://github.com/NH404       **
+ **                  Channel : https://t.me/nshteam404         **
+ **                 Developers : NH404                         **
+ **               Team Members : 78 Person                       **
+ **                   Thank's : .::Shayan::.                    **
  ====================================================================          
           """)       
 # ₿
